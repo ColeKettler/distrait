@@ -1,0 +1,17 @@
+{
+  "uuid": "c93c2d99-0f13-4581-ac22-313603fc1f94",
+  "shortName": "distrait",
+  "longName": "distrait",
+  "companyName": "Cole Kettler",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
